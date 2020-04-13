@@ -13,7 +13,7 @@ end while
 
 Details: https://en.wikipedia.org/wiki/K-means_clustering
 
-<img src="" width="200">
+<img src="https://github.com/moritzmitterdorfer/K-Means-Clustering/blob/master/img.png" width="200" alt="sample output">
 
 ## Run
 Start a server and run `index.html`.
