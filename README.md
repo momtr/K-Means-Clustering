@@ -13,7 +13,9 @@ end while
 
 Details: https://en.wikipedia.org/wiki/K-means_clustering
 
-<img src="https://github.com/moritzmitterdorfer/K-Means-Clustering/blob/master/img.png" width="200" alt="sample output">
+Output for k = 3: <br><br>
+<img src="https://github.com/moritzmitterdorfer/K-Means-Clustering/blob/master/img.png" width="400" alt="sample output">
+<br>
 
 ## Run
 Start a server and run `index.html`.
